@@ -1,1 +1,1 @@
-<a href="https://adamsobiesak.github.io/Zadanie_1/1.html">Zadanie 1 do Praktyki 2019 @ Daftcode</a>
+<a href="https://github.com/adamsobiesak/Zadanie_1-Praktyki-2019-Daftcode/1.html">Zadanie 1 do Praktyki 2019 @ Daftcode</a>
